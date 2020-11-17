@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1049091490488",
+    "firebase_url": "https://chat60.firebaseio.com",
+    "project_id": "chat60",
+    "storage_bucket": "chat60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049091490488:android:621e49d380fb08c8e0ea4d",
+        "android_client_info": {
+          "package_name": "com.example.chat60"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049091490488-2sbkj2lbucjsbj0fun8t8qpg3eous5io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat60",
+            "certificate_hash": "3730883fc0b84bba90aa64bea8c07786ce702eca"
+          }
+        },
+        {
+          "client_id": "1049091490488-i78g25knehoi9e5grk1lf9eoil7f26co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDrD6eph-2IcDi97Oe48zpvST4r_kawWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049091490488-i78g25knehoi9e5grk1lf9eoil7f26co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049091490488:android:c25bbdf1dfc94a18e0ea4d",
+        "android_client_info": {
+          "package_name": "com.example.koddevchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049091490488-i78g25knehoi9e5grk1lf9eoil7f26co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDrD6eph-2IcDi97Oe48zpvST4r_kawWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049091490488-i78g25knehoi9e5grk1lf9eoil7f26co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
